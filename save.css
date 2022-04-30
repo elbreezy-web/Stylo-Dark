@@ -1,0 +1,97 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    text-align: end;
+    
+}
+.tittle h5{
+    color: #fff;
+}
+.tittle a{
+    color: #fff;
+    
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+.sub-container{
+    text-align: center;
+    color: #fff;
+    font-weight: 400;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 15px;
+    background-image: url(./images/bg-curvy-desktop.svg);
+}
+.sub-container button{
+    border-radius: 15px;
+    background: cyan;
+    border-color: cyan;
+    width: 100px;
+    height: 25px;
+}
+.sub-container img{
+    height: 300px;
+}
+.icon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.main{
+    margin: 5px;
+    padding-top: 10px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main2 img{
+    height: 300px;
+}
+.block{
+    display: block;
+}
+.main2 {
+    display: flex;
+    color: #fff;
+    
+
+}
+.main3{
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+    
+}
+.links{
+    padding: 10px;
+}
+a{
+    margin: 10px;
+}
+.main2{
+    display: flex;
+    text-align: center;
+    margin-left: 120px;
+
+}
+.side{
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: large;
+    margin-right: 200px;
+    border: 2px solid red;
+}
+ .main3 img{
+     border-radius: 60px;
+     height: 40px;
+ }
+ .writers{
+     background-color: hsl(219, 30%, 18%);
+     color: #fff;
+     padding: 15px;
+ }
